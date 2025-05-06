@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GlowUp Skincare Natural</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fffaf5; color: #333; }
+    header { background-color: #fdd9d9; padding: 40px 20px; text-align: center; }
+    header h1 { font-size: 32px; margin-bottom: 10px; }
+    header p { font-size: 18px; }
+    .cta-button { background-color: #ff5e78; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-weight: bold; }
+    section { padding: 40px 20px; max-width: 800px; margin: auto; }
+    .produk, .testimoni { background-color: #fff3f0; border-radius: 12px; padding: 20px; margin-top: 20px; }
+    .testimoni p { font-style: italic; }
+    footer { background-color: #333; color: white; padding: 20px; text-align: center; }
+    .highlight { color: #ff5e78; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Raih Kulit Sehat Alami Bersama GlowUp Skincare!</h1>
+    <p>Temukan produk perawatan wajah alami yang sudah dipercaya oleh ribuan pelanggan.</p>
+    <a href="#order" class="cta-button">BELI SEKARANG</a>
+  </header>
+
+  <section>
+    <h2>Punya Masalah Kulit Seperti Ini?</h2>
+    <ul>
+      <li>❌ Wajah kusam dan tidak bercahaya</li>
+      <li>❌ Jerawat susah hilang</li>
+      <li>❌ Kulit kering dan sensitif</li>
+    </ul>
+    <p><span class="highlight">Kami Hadir dengan Solusi Alami dan Aman!</span></p>
+  </section>
+
+  <section class="produk">
+    <h2>🌿 Paket Best Seller GlowUp Series</h2>
+    <ul>
+      <li><strong>Facial Wash (100ml)</strong> – Membersihkan tanpa membuat kering</li>
+      <li><strong>Toner Natural Balance (100ml)</strong> – Menyegarkan dan melembabkan</li>
+      <li><strong>Serum Bright & Calm (30ml)</strong> – Membantu memudarkan bekas jerawat</li>
+      <li><strong>Moisturizer Daily Glow (30g)</strong> – Menghidrasi sepanjang hari</li>
+    </ul>
+    <p>🎁 <em>Gratis pouch cantik untuk 100 pembeli pertama!</em></p>
+  </section>
+
+  <section class="testimoni">
+    <h2>Apa Kata Mereka yang Sudah Coba?</h2>
+    <p>⭐️⭐️⭐️⭐️⭐️<br><em>"Awalnya ragu, tapi sekarang GlowUp jadi skincare wajibku. Kulitku makin glowing dan sehat!"</em> – Anya geraldine, 22 tahun</p>
+    <p>⭐️⭐️⭐️⭐️⭐️<br><em>"Jerawatku mulai berkurang cuma dalam 2 minggu. Wanginya juga enak banget!"</em> – Devina karamoy, 19 tahun</p>
+  </section>
+
+  <section>
+    <h2>Kenapa GlowUp Skincare?</h2>
+    <ul>
+      <li>🛡️ 100% Bahan Alami</li>
+      <li>💧 Cocok untuk Semua Jenis Kulit</li>
+      <li>🚫 Bebas Paraben & Alkohol</li>
+      <li>✅ BPOM Certified</li>
+      <li>💸 Garansi uang kembali jika tidak cocok dalam 7 hari</li>
+    </ul>
+  </section>
+
+  <section id="order">
+    <h2>🎉 Promo Terbatas – Beli Sekarang!</h2>
+    <p>Pesan sekarang dan dapatkan kulit glowing impianmu. Klik tombol di bawah ini untuk order via WhatsApp:</p>
+    <a href="https://wa.me/6285150750952" class="cta-button">ORDER SEKARANG via WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>📍 Jl. Selat Karimata, pekalongan utara</p>
+    <p>📞 0851-5075-0952 | ✉️ info@wicakglowUP.id</p>
+    <p>🛒 Tersedia juga di Tokopedia & Shopee</p>
+  </footer>
+</body>
+</html>
